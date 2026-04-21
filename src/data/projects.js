@@ -49,9 +49,9 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Portfolio",
-    github: "https://github.com/Ajuu01/Portfolio",
-    desc: "Personal portfolio website."
+    title: "My Portfolio",
+    github: "https://github.com/Ajuu01/My_Portfoilio.git",
+    desc: "Personal portfolio website using React."
   },
   {
     id: 10,
